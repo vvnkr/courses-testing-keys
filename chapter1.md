@@ -79,3 +79,41 @@ This is an example exercise.
 ```{r}
 
 ```
+
+---
+
+## Testing 3
+
+```yaml
+type: NormalExercise
+key: 4a0d2b8ee6
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
