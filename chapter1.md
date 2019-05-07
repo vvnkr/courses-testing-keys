@@ -3,17 +3,15 @@ title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
 ---
 
-## Testing 1
+## Testing 2
 
 ```yaml
 type: NormalExercise
-key: 2bafef99a3
-lang: r
+key: 2540e4d31d
 xp: 100
-skills: 1
 ```
 
-This is an example exercise.
+
 
 `@instructions`
 
@@ -43,15 +41,17 @@ This is an example exercise.
 
 ---
 
-## Testing 2
+## Testing 1
 
 ```yaml
 type: NormalExercise
-key: 2540e4d31d
+key: 2bafef99a3
+lang: r
 xp: 100
+skills: 1
 ```
 
-
+This is an example exercise.
 
 `@instructions`
 
