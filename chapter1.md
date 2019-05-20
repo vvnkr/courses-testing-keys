@@ -7,7 +7,7 @@ free_preview: true
 ## Testing do something crazy
 
 ```yaml
-type: NormalExercise
+type: SingleProcessExercise
 key: 2540e4d31d
 xp: 100
 ```
@@ -101,6 +101,45 @@ xp: 100
 `@pre_exercise_code`
 ```{r}
 
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 4a20e4a081
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+test:
+  1 2 3
 ```
 
 `@sample_code`
