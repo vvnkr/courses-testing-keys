@@ -51,3 +51,5 @@
 
 # Some spatial stuff also needs this
 # apt-get update && apt-get install --yes liblwgeom-dev
+
+echo "test"
